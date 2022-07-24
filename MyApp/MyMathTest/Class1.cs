@@ -14,6 +14,7 @@ namespace MyMathTest
         [TestCase(10,30)]
         public void AddTest(int num1,int num2)
         {
+            //Test
             MyMath myMath = new MyMath();
            var actualResult= myMath.Add(num1,num2);
             var expectedResult = num1 + num2;
