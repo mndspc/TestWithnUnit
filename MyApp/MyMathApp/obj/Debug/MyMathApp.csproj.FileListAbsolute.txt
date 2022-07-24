@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\bin\Debug\MyMathApp.dll.config
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\bin\Debug\MyMathApp.dll
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\bin\Debug\MyMathApp.pdb
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\obj\Debug\MyMathApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\obj\Debug\MyMathApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\obj\Debug\MyMathApp.dll
+C:\Users\Lenovo\source\repos\TestWithnUnit\MyApp\MyMathApp\obj\Debug\MyMathApp.pdb
